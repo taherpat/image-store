@@ -1,0 +1,9 @@
+Pillow>=9.0.0
+requests>=2.20.0
+transformers>=4.30.0
+torch>=2.0.0
+torchvision>=0.15.0
+timm>=0.9.0
+ipython>=7.0.0
+jupyter>=1.0.0
+# Add any other specific versions if known to be critical, otherwise keep flexible.
